@@ -5,4 +5,4 @@ Information about file names:-
 1.) all_data_test.rar and all_data_train.rar contains training and testing data
 2.) StatueOfLibertyDataManipulation.ipynb file contains the code before the data was created to increase our data by manipulating the           images in various ways
 3.) Virtual_Tourise_Guide_Model.ipynb file contains the code of our training model.
-
+4.) The VIRTUAL TOURIST GUIDE.pptx file conatins the ppt form of the project.
